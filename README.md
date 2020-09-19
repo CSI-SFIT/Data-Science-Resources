@@ -78,6 +78,6 @@
 <p align="center">
   <a href="https://www.csi.sfit.ac.in/">
     <img src="https://www.csi.sfit.ac.in/logo.png"
-         alt="Sponsored by Evil Martians" width="300" height="200">
+         alt="csi_logo" width="300" height="200">
   </a>
 </p>
