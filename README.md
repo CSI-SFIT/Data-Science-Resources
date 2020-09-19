@@ -3,7 +3,7 @@
 **A guide to getting started with Data Science and ML (Deep Learning not included)**
 ---
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40parikh.janvi94%2Fwhy-is-machine-learning-cool-3cb0645b5ee5&psig=AOvVaw0uKO8Rt5lQxypThZdFnigK&ust=1600591698101000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODymfbq9OsCFQAAAAAdAAAAABAD)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fmachine-learning%2F&psig=AOvVaw1r6KKcxk_8Fyh38I8E5swZ&ust=1600598760192000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDYiJeF9esCFQAAAAAdAAAAABAD)
  
 
 
