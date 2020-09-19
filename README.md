@@ -1,12 +1,12 @@
-# Data-Science-Resources
 
-**A guide to getting started with Data Science and ML (Deep Learning not included)**
----
+# ⚡ Data Science Resources 
 
-![alt text](https://media.geeksforgeeks.org/wp-content/cdn-uploads/machineLearning3.png)
+![ML](https://media.geeksforgeeks.org/wp-content/cdn-uploads/machineLearning3.png)
  
-
-
+<p align="center">
+<b>* A guide to getting started with Data Science and ML *
+<br>(Deep Learning not included)<b>
+</p>
 
 ## MATH
 1. [Math for Data Science](https://www.coursera.org/specializations/mathematics-for-data-science#courses)
@@ -16,21 +16,23 @@
 
 ## Data Analysis
 
-### Numpy- A very useful library for math and Scientific Computing
+**Numpy**
+A very useful library for math and Scientific Computing
 1. [Numpy tutorial](https://numpy.org/doc/stable/)
 2. [Numpy Videos](https://www.youtube.com/watch?v=QUT1VHiLmmI)
 
-### Pandas- Most used Python library for Data Analysis
+**Pandas**
+Most used Python library for Data Analysis
 1. [Pandas Documentation](https://pandas.pydata.org/docs/getting_started/index.html)
 2. [YouTube Playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 3. [DataCamp Tutorial](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)
 
-### Data Visualization
+**Data Visualization**
 1. [Matplotlib Playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_Frerfefre)
 2. [Matplotlib Tutorials](https://www.tutorialspoint.com/matplotlib/index.htm)
 3. [Seaborn Tutorials](https://www.tutorialspoint.com/seaborn/index.htm)
 
-### SQL
+## **SQL**
 1. [MYSQL Tutorial](https://www.mysqltutorial.org/)
 2. [MYSQL YouTube Videos](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 
@@ -58,8 +60,24 @@
 3. [Sentdex](https://www.youtube.com/user/sentdex)
 4. [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 
-**Contributors**
+**How to Contribute**
 ---
 
-1. [@kaifkohari](https://github.com/Kaif10)
-2. [@EktaMasrani](https://github.com/ekta18)
+1. Clone repo and create a new branch: `$ git checkout https://github.com/CSI-SFIT/CSI-Website -b name_for_new_branch`.
+2. Make changes and test.
+3. Submit Pull Request with comprehensive description of changes.
+
+**Acknowledgements**
+---
+
+**CSI SFIT Tech Team 2020 - 2021 :**
++ Joint Tech Head : [@kaifkohari](https://github.com/Kaif10)
++ Tech Executive : [@EktaMasrani](https://github.com/ekta18)
+
+<br>
+<p align="center">
+  <a href="https://www.csi.sfit.ac.in/">
+    <img src="https://www.csi.sfit.ac.in/logo.png"
+         alt="Sponsored by Evil Martians" width="300" height="200">
+  </a>
+</p>
