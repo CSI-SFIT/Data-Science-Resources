@@ -17,12 +17,12 @@
 ## Data Analysis
 
 **Numpy**
-A very useful library for math and Scientific Computing
+<br>A very useful library for math and Scientific Computing
 1. [Numpy tutorial](https://numpy.org/doc/stable/)
 2. [Numpy Videos](https://www.youtube.com/watch?v=QUT1VHiLmmI)
 
 **Pandas**
-Most used Python library for Data Analysis
+<br>Most used Python library for Data Analysis
 1. [Pandas Documentation](https://pandas.pydata.org/docs/getting_started/index.html)
 2. [YouTube Playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 3. [DataCamp Tutorial](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)
