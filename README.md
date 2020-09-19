@@ -28,7 +28,7 @@
 3. [DataCamp Tutorial](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)
 
 **Data Visualization**
-1. [Matplotlib Playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_Frerfefre)
+1. [Matplotlib Playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
 2. [Matplotlib Tutorials](https://www.tutorialspoint.com/matplotlib/index.htm)
 3. [Seaborn Tutorials](https://www.tutorialspoint.com/seaborn/index.htm)
 
