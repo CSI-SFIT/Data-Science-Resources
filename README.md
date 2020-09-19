@@ -3,7 +3,7 @@
 **A guide to getting started with Data Science and ML (Deep Learning not included)**
 ---
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fmachine-learning%2F&psig=AOvVaw1r6KKcxk_8Fyh38I8E5swZ&ust=1600598760192000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDYiJeF9esCFQAAAAAdAAAAABAD)
+![alt text](https://media.geeksforgeeks.org/wp-content/cdn-uploads/machineLearning3.png)
  
 
 
