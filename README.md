@@ -3,13 +3,8 @@
 **A guide to getting started with Data Science and ML (Deep Learning not included)**
 ---
 
-<br>
-<p align="center">
-  <a href="https://www.google.com/">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40parikh.janvi94%2Fwhy-is-machine-learning-cool-3cb0645b5ee5&psig=AOvVaw0uKO8Rt5lQxypThZdFnigK&ust=1600591698101000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODymfbq9OsCFQAAAAAdAAAAABAD"
-         alt="Sponsored by Evil Martians" width="300" height="200">
-  </a>
-</p>
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40parikh.janvi94%2Fwhy-is-machine-learning-cool-3cb0645b5ee5&psig=AOvVaw0uKO8Rt5lQxypThZdFnigK&ust=1600591698101000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODymfbq9OsCFQAAAAAdAAAAABAD)
+ 
 
 
 
@@ -52,7 +47,10 @@
 2. [Hands on ML with Scikit-learn and Python](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf)
 3. [Approaching almost any ML problem](https://www.amazon.in/Approaching-Almost-Machine-Learning-Problem-ebook/dp/B089P13QHT)
 
-[Data Science Notes by Chris Albon](https://chrisalbon.com/)
+## Notes
+1. [Data Science Notes by Chris Albon](https://chrisalbon.com/)
+2. [Andrew Ng's ML Notes](https://www.kaggle.com/getting-started/145431)
+3. [CS229 Stanford Notes](http://cs229.stanford.edu/syllabus.html)
 
 ## YouTube Channels 
 1. [Pydata](https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w)
