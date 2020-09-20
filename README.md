@@ -9,6 +9,8 @@
 </p>
 
 ## MATH
+
+<br>For Data Analysis knowledge of Statistics is enough but for building ML models Calculus, Linear Algebra and Probability also plays a huge role. 
 1. [Math for Data Science](https://www.coursera.org/specializations/mathematics-for-data-science#courses)
 2. [Statistics Revision](https://www.youtube.com/watch?v=xxpc-HPKN28)
 3. [Khan Academy Calculus](https://www.youtube.com/playlist?list=PL19E79A0638C8D449)
@@ -36,6 +38,11 @@
 1. [MYSQL Tutorial](https://www.mysqltutorial.org/)
 2. [MYSQL YouTube Videos](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 
+## **Big Data Analytics**
+<br> It is not possible to work with huge datasets that contains millions of rows on your local machine. In such cases you need to utilize the servers of other external  machines for analysis of such huge data, something which is called 'Cloud Computing'.
+
+1. [Big Data Coursera](https://www.coursera.org/specializations/big-data)
+2. [Big Data Essentials: HDFS, MapReduce and Spark RDD](https://www.coursera.org/learn/big-data-essentials)
 
 ## ML Courses 
 1. [Intro to Machine-Learning Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
