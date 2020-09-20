@@ -4,7 +4,7 @@
 ![ML](https://media.geeksforgeeks.org/wp-content/cdn-uploads/machineLearning3.png)
  
 <p align="center">
-<b>* A guide to getting started with Data Science and ML *
+<b>* A guide to getting started with Data Science and ML * </b>
 <br>(Deep Learning not included)<b>
 </p>
 
