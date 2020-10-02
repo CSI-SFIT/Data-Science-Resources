@@ -5,7 +5,7 @@
  
 <p align="center">
 <b>* A guide to getting started with Data Science and ML * </b>
-<br>(Deep Learning not included)<b>
+<br>(Deep Learning not included)
 </p>
 
 ## MATH
