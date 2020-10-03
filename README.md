@@ -22,8 +22,6 @@ Reading thoeritical books might be getting too involved, if your goal is to make
 This quora answer gives a detailed 5 month roadmap (which can and should be extended according to your comfort) for learning the math behind machine learning and math that every engineer must knof of in general.
 2. [Maths for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)                               
 This book brings the mathematical foundations of basic machine learning concepts to the fore and collects the information in a single place. This book is intended to be a guidebook to the vast mathematical literature that forms the foundations of modern machine learning.
-3. [Deep Learning Book](https://www.deeplearningbook.org/)
-This is the standard deep learning book followed by many top uiversities for introductory courses on deep learning.
 
 ## Data Analysis
 
