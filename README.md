@@ -14,7 +14,16 @@
 1. [Math for Data Science](https://www.coursera.org/specializations/mathematics-for-data-science#courses)
 2. [Statistics Revision](https://www.youtube.com/watch?v=xxpc-HPKN28)
 3. [Khan Academy Calculus](https://www.youtube.com/playlist?list=PL19E79A0638C8D449)
-4. [Blog post for all Math resources required for ML](https://towardsdatascience.com/mathematics-for-data-science-e53939ee8306)
+4. [Gilbert Strang's linear algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) 
+5. [Blog post for all Math resources required for ML](https://towardsdatascience.com/mathematics-for-data-science-e53939ee8306)
+
+Reading thoeritical books might be getting too involved, if your goal is to make ML models to just fulfill your applications. But for people who'd like to understand deep learning algorithms and the math behind it, this is a short list of resources. 
+1. [How do I learn mathematics for machine learning?](https://qr.ae/pN4oZT)                              
+This quora answer gives a detailed 5 month roadmap (which can and should be extended according to your comfort) for learning the math behind machine learning and math that every engineer must knof of in general.
+2. [Maths for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)                               
+This book brings the mathematical foundations of basic machine learning concepts to the fore and collects the information in a single place. This book is intended to be a guidebook to the vast mathematical literature that forms the foundations of modern machine learning.
+3. [Deep Learning Book](https://www.deeplearningbook.org/)
+This is the standard deep learning book followed by many top uiversities for introductory courses on deep learning.
 
 ## Data Analysis
 
