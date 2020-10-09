@@ -8,6 +8,8 @@
 <br>(Deep Learning not included)
 </p>
 
+___
+
 ## MATH
 
 <br>For Data Analysis knowledge of Statistics is enough but for building ML models Calculus, Linear Algebra and Probability also plays a huge role. 
@@ -25,6 +27,8 @@ This book brings the mathematical foundations of basic machine learning concepts
 
 ## Data Analysis
 
+<br>Data analysis is a process of inspecting, cleansing, transforming and modeling data with the goal of discovering useful information, informing conclusions and supporting decision-making. Data analysis has multiple facets and approaches, encompassing diverse techniques under a variety of names, and is used in different business, science, and social science domains. In today's business world, data analysis plays a role in making decisions more scientific and helping businesses operate more effectively
+
 **Numpy**
 <br>A very useful library for math and Scientific Computing
 1. [Numpy tutorial](https://numpy.org/doc/stable/)
@@ -41,38 +45,77 @@ This book brings the mathematical foundations of basic machine learning concepts
 2. [Matplotlib Tutorials](https://www.tutorialspoint.com/matplotlib/index.htm)
 3. [Seaborn Tutorials](https://www.tutorialspoint.com/seaborn/index.htm)
 
-## **SQL**
+**SQL**
 1. [MYSQL Tutorial](https://www.mysqltutorial.org/)
-2. [MYSQL YouTube Videos](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+2. [MYSQL TutorialsPoint](https://www.tutorialspoint.com/mysql/index.htm)
+3. [MYSQL YouTube Videos](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+4. [Postgres SQL](https://www.youtube.com/playlist?list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN)
 
-## **Big Data Analytics**
-<br> It is not possible to work with huge datasets that contains millions of rows on your local machine. In such cases you need to utilize the servers of other external  machines for analysis of such huge data, something which is called 'Cloud Computing'.
+___
 
+## Big Data Analytics
+
+<br> Big Data is a massive amount of data sets that cannot be stored, processed, or analyzed using traditional tools. Big Data analytics is a process used to extract meaningful insights, such as hidden patterns, unknown correlations, market trends, and customer preferences. Big Data analytics provides various advantages—it can be used for better decision making, preventing fraudulent activities, among other things.
+
+### Tools Used in Big Data Analytics
+Here are some popular tools used in Big Data analytics:
+1. Hadoop - helps in storing and analyzing data
+2. Spark - used for real-time processing and analyzing large amounts of data
+3. Kafka - a distributed streaming platform that is used for fault-tolerant storage
+4. Cassandra - a distributed database used to handle chunks of data
+
+### Big Data Courses
 1. [Big Data Coursera](https://www.coursera.org/specializations/big-data)
 2. [Big Data Essentials: HDFS, MapReduce and Spark RDD](https://www.coursera.org/learn/big-data-essentials)
 
-## ML Courses 
+___
+
+## ML Courses
+
+### Practical (More bent towards Programming)
 1. [Intro to Machine-Learning Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-2. [Machine Learning Andrew Ng (MATLAB)](https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_content=07-StanfordML-IN&campaignid=1950458127&adgroupid=71501032500&device=c&keyword=coursera%20machine%20learning&matchtype=e&network=g&devicemodel=&adpostion=&creativeid=415449761695&hide_mobile_promo&gclid=Cj0KCQjwtZH7BRDzARIsAGjbK2aUIpKfiAuKhgBSeuHuXBmXOhVZKB9S6zg7wkrCxukIS4Mf9uSgKzYaAgECEALw_wcB)
-3. [Kaggle Mini-Courses](https://www.kaggle.com/learn/overview)
-4. [Machine Learning A-Z: Hands-On Python & R In Data Science Udemy](https://www.udemy.com/course/machinelearning/)
+2. [Kaggle Mini-Courses](https://www.kaggle.com/learn/overview)
+3. [Machine Learning A-Z: Hands-On Python & R In Data Science Udemy](https://www.udemy.com/course/machinelearning/)
+
+___
+
+### Theoritical (More in-depth Math Concepts)
+4. [Machine Learning Andrew Ng (MATLAB)](https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_content=07-StanfordML-IN&campaignid=1950458127&adgroupid=71501032500&device=c&keyword=coursera%20machine%20learning&matchtype=e&network=g&devicemodel=&adpostion=&creativeid=415449761695&hide_mobile_promo&gclid=Cj0KCQjwtZH7BRDzARIsAGjbK2aUIpKfiAuKhgBSeuHuXBmXOhVZKB9S6zg7wkrCxukIS4Mf9uSgKzYaAgECEALw_wcB)
+5. [Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+6. [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course/)
+
+___
 
 
 ## Books
+
+For absolute beginners
+1. [Python for Data Analysis:Data Wrangling with Pandas,NumPy,and IPython](https://www.pdfdrive.com/python-for-data-analysis-data-wrangling-with-pandas-numpy-and-ipython-e158189564.html)
 1. [Intro to ML with Python](https://www.pdfdrive.com/introduction-to-machine-learning-with-python-e58337749.html)
-2. [Hands on ML with Scikit-learn and Python](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf)
-3. [Approaching almost any ML problem](https://www.amazon.in/Approaching-Almost-Machine-Learning-Problem-ebook/dp/B089P13QHT)
+2. [Hands on ML with Scikit-learn and Tensorflow](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf)
+
+For intermediates
+3. [Approaching almost any ML problem (Abhishek Thakur)](https://www.amazon.in/Approaching-Almost-Machine-Learning-Problem-ebook/dp/B089P13QHT)
+
+___
 
 ## Notes
+
 1. [Data Science Notes by Chris Albon](https://chrisalbon.com/)
 2. [Andrew Ng's ML Notes](https://www.kaggle.com/getting-started/145431)
 3. [CS229 Stanford Notes](http://cs229.stanford.edu/syllabus.html)
 
-## YouTube Channels 
+___
+
+## YouTube Channels
+
 1. [Pydata](https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w)
 2. [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 3. [Sentdex](https://www.youtube.com/user/sentdex)
+4. [Krish Naik](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig)
 4. [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
+
+___
 
 **How to Contribute**
 ---
