@@ -25,6 +25,8 @@ This quora answer gives a detailed 5 month roadmap (which can and should be exte
 2. [Maths for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)                               
 This book brings the mathematical foundations of basic machine learning concepts to the fore and collects the information in a single place. This book is intended to be a guidebook to the vast mathematical literature that forms the foundations of modern machine learning.
 
+___
+
 ## Data Analysis
 
 <br>Data analysis is a process of inspecting, cleansing, transforming and modeling data with the goal of discovering useful information, informing conclusions and supporting decision-making. Data analysis has multiple facets and approaches, encompassing diverse techniques under a variety of names, and is used in different business, science, and social science domains. In today's business world, data analysis plays a role in making decisions more scientific and helping businesses operate more effectively
@@ -72,14 +74,14 @@ ___
 
 ## ML Courses
 
-### Practical (More bent towards Programming)
+**Practical (More bent towards Programming)**
 1. [Intro to Machine-Learning Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 2. [Kaggle Mini-Courses](https://www.kaggle.com/learn/overview)
 3. [Machine Learning A-Z: Hands-On Python & R In Data Science Udemy](https://www.udemy.com/course/machinelearning/)
 
 ___
 
-### Theoritical (More in-depth Math Concepts)
+**Theoritical (More in-depth Math Concepts)**
 4. [Machine Learning Andrew Ng (MATLAB)](https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_content=07-StanfordML-IN&campaignid=1950458127&adgroupid=71501032500&device=c&keyword=coursera%20machine%20learning&matchtype=e&network=g&devicemodel=&adpostion=&creativeid=415449761695&hide_mobile_promo&gclid=Cj0KCQjwtZH7BRDzARIsAGjbK2aUIpKfiAuKhgBSeuHuXBmXOhVZKB9S6zg7wkrCxukIS4Mf9uSgKzYaAgECEALw_wcB)
 5. [Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 6. [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course/)
@@ -89,12 +91,12 @@ ___
 
 ## Books
 
-For absolute beginners
+**For absolute beginners**
 1. [Python for Data Analysis:Data Wrangling with Pandas,NumPy,and IPython](https://www.pdfdrive.com/python-for-data-analysis-data-wrangling-with-pandas-numpy-and-ipython-e158189564.html)
 1. [Intro to ML with Python](https://www.pdfdrive.com/introduction-to-machine-learning-with-python-e58337749.html)
 2. [Hands on ML with Scikit-learn and Tensorflow](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf)
 
-For intermediates
+**For intermediates**
 3. [Approaching almost any ML problem (Abhishek Thakur)](https://www.amazon.in/Approaching-Almost-Machine-Learning-Problem-ebook/dp/B089P13QHT)
 
 ___
