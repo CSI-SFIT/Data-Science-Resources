@@ -100,6 +100,15 @@ ___
 
 ___
 
+## Websites
+
+1. [Made with ML by Goku Mohandas](https://madewithml.com/)
+2. [End to end ML by Brendan Rohrer](https://end-to-end-machine-learning.teachable.com/)
+3. [A.I. by Google Researchers](https://ai.google/education/)
+4. [Towards Data Science by Medium](https://towardsdatascience.com/)
+
+___
+
 ## Notes
 
 1. [Data Science Notes by Chris Albon](https://chrisalbon.com/)
