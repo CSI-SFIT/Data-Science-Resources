@@ -127,6 +127,15 @@ ___
 
 ___
 
+**Best Websites to get free datasets**
+
+1. [Kaggle](https://www.kaggle.com/)
+2. [UCL Machine learning repositories](http://archive.ics.uci.edu/ml/index.php)
+3. [Stanford Data](https://snap.stanford.edu/data/)
+4. [Google public datasets](https://cloud.google.com/bigquery/public-data/)
+5. [Amazon Web Services](https://data.fivethirtyeight.com/)
+
+
 **How to Contribute**
 ---
 
