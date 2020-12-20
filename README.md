@@ -133,7 +133,7 @@ ___
 2. [UCL Machine learning repositories](http://archive.ics.uci.edu/ml/index.php)
 3. [Stanford Data](https://snap.stanford.edu/data/)
 4. [Google public datasets](https://cloud.google.com/bigquery/public-data/)
-5. [Amazon Web Services](https://data.fivethirtyeight.com/)
+5. [FiveThirtyEight](https://data.fivethirtyeight.com/)
 
 
 **How to Contribute**
